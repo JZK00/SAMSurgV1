@@ -9,3 +9,5 @@
 - `batch_prompt`: Used for batch prompting under the sam2 framework; must be run in sam2/segment-anything-2/notebooks/video_predictor_example.ipynb.
 - `read_bbox.py`: Reads bounding boxes.
 - `calc_iou`: Calculates the mean IoU of all final results; must be run in sam2/segment-anything-2/notebooks/video_predictor_example.ipynb.
+
+Ongoing, awaiting update.
